@@ -5,10 +5,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap");
 
 ::selection {
-  background: #f8ffb7; /* Safari */
+  background: #000; /* Safari */
+  color: #fff;
   }
   ::-moz-selection {
-  background: #f8ffb7; /* Firefox */
+  background: #000; /* Firefox */
+  color: #fff;
   }
 
 html,
