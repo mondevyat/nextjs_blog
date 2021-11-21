@@ -10,6 +10,7 @@ import {
   Comments,
   CommentsForm,
   Author,
+  Loader,
 } from "../../components";
 
 const PostDetails = ({ post }) => {
